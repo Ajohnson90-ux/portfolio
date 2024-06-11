@@ -5,6 +5,7 @@ This portfolio is for TECH I.S.'s students. Learn about HTML / CSS / Bootstap th
 
 
 ![image](https://github.com/Karthi905968/Portfolio/assets/144101745/5dc15bf1-2606-49e3-82a7-10f60e1a0388)
+<img width="463" alt="Screenshot 2024-06-11 at 2 03 10 PM" src="https://github.com/Karthi905968/Portfolio/assets/144101745/edfc2e05-d01b-407b-b9eb-cf4769907c01">
 
 
 
